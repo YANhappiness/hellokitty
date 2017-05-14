@@ -1,0 +1,18 @@
+
+@charset "utf-8";
+
+.logo{
+	padding: 2px;
+}
+.menu{
+	margin-top: 0;
+}
+nav.navbar.navbar-default.nav-fixed-top{
+	margin-bottom: 0;
+}
+
+.carousel-inner img{
+	margin: 0 auto;
+}
+
+
